@@ -1,16 +1,20 @@
 ## About
-- This is a social media application
+
+- This is Full Stack MERN social media application
 - The app includes authentication, profiles and forum posts
 
 ## App link:
+
 https://evening-refuge-82094.herokuapp.com/
 
 ## Quick Start
 
 ### Adding configurations
-* Create a new file `config/default.json`
+
+- Create a new file `config/default.json`
 
 Add the following:
+
 ```
 {
   "mongoURI": "MONGODB_URL",
@@ -21,6 +25,7 @@ Add the following:
 ```
 
 ### Then
+
 ```
 # Install server dependencies
 npm install
